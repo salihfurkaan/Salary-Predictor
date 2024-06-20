@@ -26,10 +26,13 @@ To run this project, you need to have Python and the following libraries install
 - pandas
 - seaborn
 - scikit-learn
+- word2number
+- numpy
+- matplotlib
 
 You can install the required libraries using the following commands:
 ```bash
-pip install pandas seaborn scikit-learn word2number
+pip install pandas seaborn scikit-learn matplotlib word2number
 ```
 ## Usage
 
